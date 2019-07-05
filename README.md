@@ -71,13 +71,13 @@ mysql -u root -p
 	
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x8.png)
 <br></br>
-
+>>* 以下为留言板界面（两个版本）：
 >>>*							图8
 	
-![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x8.png)
+![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x9.png)
 <br></br>
 
->>>*							图8
+>>>*							图9
 	
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x9.png)
 <br></br>
