@@ -23,21 +23,21 @@
 
 >>* 将仓库内的所有文件复制到服务器根目录（或子文件夹，视具体情况而定），如图1、图2所示；
 
-	![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x1.png)
+	![asda](https://github.com/25thengineer/personal_homepage/tree/master/setup/x1.png)
 
-	![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x2.png)
+	![qeqwe](https://github.com/25thengineer/personal_homepage/tree/master/setup/x2.png)
 
 >>* 在我的机子与环境上，顺利完成上述所有步骤后，就可以在浏览器地址栏输入以下地址方位主页了，效果如图3~7所示。
 
 	`http://localhost/DFZ_HOME_PAGES/`
 	
-	![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x3.png)
+>>![ghfdg](https://github.com/25thengineer/personal_homepage/tree/master/setup/x3.png)
 	
-	![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x4.png)
+>>![fhgj](https://github.com/25thengineer/personal_homepage/tree/master/setup/x4.png)
 	
-	![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x5.png)
+>>![khjk](https://github.com/25thengineer/personal_homepage/tree/master/setup/x5.png)
 	
-	![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x6.png)
+>>![hlkjl](https://github.com/25thengineer/personal_homepage/tree/master/setup/x6.png)
 	
-	![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x7.png)
+>>![jljk](https://github.com/25thengineer/personal_homepage/tree/master/setup/x7.png)
 
