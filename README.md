@@ -66,10 +66,11 @@ mysql -u root -p
 	
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x7.png)
 <br></br>
->>* 以下为留言板界面（两个版本）：
 
 >>>*							图7
-	
+
+>>* 以下为留言板界面（两个版本）：
+
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x8.png)
 <br></br>
 
