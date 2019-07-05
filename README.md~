@@ -18,13 +18,13 @@
 	`git clone git@github.com:25thengineer/personal_homepage.git`
 	-（+*）打开MySQL，创建两个分别名为board与DFZ_message_board的数据库，并将仓库内的两个sql文件导入依次（注意顺序：数据库选择board时导入board.sql，选择DFZ_message_board时导入DFZ_message_board.sql）；
 	-（+*）将仓库内的所有文件复制到服务器根目录（或子文件夹，视具体情况而定），如图1、图2所示；
-	![图1](./setup/x1.png)
-	![图2](./setup/x2.png)
+	![图1](https://github.com/25thengineer/personal_homepage/tree/master/setup/x1.png)
+	![图2](https://github.com/25thengineer/personal_homepage/tree/master/setup/x2.png)
 	-（+*）在我的机子与环境上，顺利完成上述所有步骤后，就可以在浏览器地址栏输入以下地址方位主页了，效果如图3~7所示。
 	`http://localhost/DFZ_HOME_PAGES/`
-	![图3](./setup/x3.png)
-	![图4](./setup/x4.png)
-	![图5](./setup/x5.png)
-	![图6](./setup/x6.png)
-	![图7](./setup/x7.png)
+	![图3](https://github.com/25thengineer/personal_homepage/tree/master/setup/x3.png)
+	![图4](https://github.com/25thengineer/personal_homepage/tree/master/setup/x4.png)
+	![图5](https://github.com/25thengineer/personal_homepage/tree/master/setup/x5.png)
+	![图6](https://github.com/25thengineer/personal_homepage/tree/master/setup/x6.png)
+	![图7](https://github.com/25thengineer/personal_homepage/tree/master/setup/x7.png)
 
