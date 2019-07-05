@@ -19,7 +19,21 @@
 
 	git clone git@github.com:25thengineer/personal_homepage.git
 
->>* 打开MySQL，创建两个分别名为board与DFZ_message_board的数据库，并将仓库内的两个sql文件导入依次（注意顺序：数据库选择board时导入board.sql，<br></br>选择DFZ_message_board时导入DFZ_message_board.sql）；
+>>* 打开MySQL，创建两个分别名为board与DFZ_message_board的数据库，并将仓库内的两个sql文件导入依次（注意顺序：数据库选择board时导入board.sql，<br></br>选择DFZ_message_board时导入DFZ_message_board.sql），参考命令如下；
+
+mysql -u root -p
+
+>>>* （输入密码）
+
+create database board;
+use board;
+source ./board.sql;
+
+>>>* （使用source命令时注意路径要正确）
+
+create database DFZ_message_board;
+use DFZ_message_board;
+source ./DFZ_message_board.sql;
 
 >>* 将仓库内的所有文件复制到服务器根目录（或子文件夹，视具体情况而定），如图1、图2所示；
 
