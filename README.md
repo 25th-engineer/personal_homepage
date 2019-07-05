@@ -57,3 +57,5 @@
 	
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x7.png)
 <br></br>
+
+>>*							图7
