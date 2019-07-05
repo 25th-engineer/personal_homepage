@@ -26,7 +26,7 @@
 <br></br>
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x1.png)
 <br></br>
->>*							图1
+>>>*							图1
 
 <br></br>
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x2.png)
