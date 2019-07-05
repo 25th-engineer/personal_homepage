@@ -15,19 +15,19 @@
 
 ### 步骤
 
-	>>* 下载本仓库的所有文件，解压；或者使用下列命令将本仓库克隆下来；
+>>* 下载本仓库的所有文件，解压；或者使用下列命令将本仓库克隆下来；
 
 	`git clone git@github.com:25thengineer/personal_homepage.git`
 
-	>>* 打开MySQL，创建两个分别名为board与DFZ_message_board的数据库，并将仓库内的两个sql文件导入依次（注意顺序：数据库选择board时导入board.sql，<br></br>选择DFZ_message_board时导入DFZ_message_board.sql）；
+>>* 打开MySQL，创建两个分别名为board与DFZ_message_board的数据库，并将仓库内的两个sql文件导入依次（注意顺序：数据库选择board时导入board.sql，<br></br>选择DFZ_message_board时导入DFZ_message_board.sql）；
 
-	>>* 将仓库内的所有文件复制到服务器根目录（或子文件夹，视具体情况而定），如图1、图2所示；
+>>* 将仓库内的所有文件复制到服务器根目录（或子文件夹，视具体情况而定），如图1、图2所示；
 
 	![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x1.png)
 
 	![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x2.png)
 
-	>>* 在我的机子与环境上，顺利完成上述所有步骤后，就可以在浏览器地址栏输入以下地址方位主页了，效果如图3~7所示。
+>>* 在我的机子与环境上，顺利完成上述所有步骤后，就可以在浏览器地址栏输入以下地址方位主页了，效果如图3~7所示。
 
 	`http://localhost/DFZ_HOME_PAGES/`
 	
