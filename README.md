@@ -79,11 +79,6 @@ mysql -u root -p
 
 >>>*							图9
 	
-![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x9.png)
-<br></br>
-
->>>*							图9
-	
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x10.png)
 <br></br>
 
