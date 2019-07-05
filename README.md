@@ -85,4 +85,6 @@ mysql -u root -p
 >>>*							图10
 
 ## 帮助
-	关于本项目的任何问题，都可以找我，本人邮箱：<br></br>`u25th_engineer@mail.hfut.edu.cn`
+	关于本项目的任何问题，都可以找我，本人邮箱：
+
+	`u25th_engineer@mail.hfut.edu.cn`
