@@ -38,7 +38,8 @@
 <br></br>	
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x3.png)
 <br></br>
->>*  图3<br></br>	
+>>*  图3
+<br></br>	
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x4.png)
 <br></br>
 >>*  图4<br></br>	
