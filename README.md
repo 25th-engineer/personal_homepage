@@ -23,7 +23,7 @@
 
 >>* 将仓库内的所有文件复制到服务器根目录（或子文件夹，视具体情况而定），如图1、图2所示；
 
-![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x1.png)
+	![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x1.png)
 
 ![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x2.png)
 
