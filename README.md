@@ -34,7 +34,7 @@
 >>* 在我的机子与环境上，顺利完成上述所有步骤后，就可以在浏览器地址栏输入以下地址方位主页了，效果如图3~7所示。
 
 	http://localhost/DFZ_HOME_PAGES/
->>*
+>>* <br></br>
 <br></br>	
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x3.png)
 <br></br>
