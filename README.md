@@ -68,6 +68,26 @@ mysql -u root -p
 <br></br>
 
 >>>*							图7
+	
+![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x8.png)
+<br></br>
+
+>>>*							图8
+	
+![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x8.png)
+<br></br>
+
+>>>*							图8
+	
+![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x9.png)
+<br></br>
+
+>>>*							图9
+	
+![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x10.png)
+<br></br>
+
+>>>*							图10
 
 ## 帮助
 	关于本项目的任何问题，都可以找我，本人邮箱：<br></br>`u25th_engineer@mail.hfut.edu.cn`
