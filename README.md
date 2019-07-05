@@ -3,14 +3,14 @@
 ## 声明
 
 	做（严格来说是再创造）这个主页的原因纯粹是因为个人兴趣，没有任何商业目的。任何组织或个人都可以下载、修改与使用，本人不*承担*由此带来的**任何法律责任**。
-
-	["个人主页"来源](https://github.com/anotherlazygeek/Personal-Home-Page);<br></br>
-
-	[“超级玛丽小游戏”来源](https://github.com/25thengineer/personal_homepage)；<br></br>
-
-	["留言板1"来源](https://github.com/TripleC-Light/Q-A-message-board)。<br></br>
-
-	“留言板2”的的来源暂时没找着，找到就补上去；作者看到了可以联系我（邮箱在“帮助”项中）。<br></br>
+	<br></br>
+>> ["个人主页"来源](https://github.com/anotherlazygeek/Personal-Home-Page);
+	<br></br>
+>> [“超级玛丽小游戏”来源](https://github.com/25thengineer/personal_homepage)；
+	<br></br>
+>> ["留言板1"来源](https://github.com/TripleC-Light/Q-A-message-board)。
+	
+	“留言板2”的的来源暂时没找着，找到就补上去；作者看到了可以联系我（邮箱在“帮助”项中）。
 
 	所有内容，本人被告知涉及侵权的，将立即删除！
 
