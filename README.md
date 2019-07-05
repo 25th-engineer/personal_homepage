@@ -27,6 +27,7 @@
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x1.png)
 <br></br>
 >>*  图1<br></br>
+
 <br></br>
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x2.png)
 <br></br>
@@ -35,19 +36,24 @@
 
 	http://localhost/DFZ_HOME_PAGES/
 >>* <br></br>
+
 <br></br>	
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x3.png)
 <br></br>
 >>*  图3
+
 <br></br>	
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x4.png)
 <br></br>
->>*  图4<br></br>	
+>>*  图4<br></br>
+	
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x5.png)
 <br></br>	
 >>*  图5<br></br>
+
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x6.png)
 <br></br>
->>*  图6<br></br>	
+>>*  图6<br></br>
+	
 ![](https://github.com/25thengineer/personal_homepage/blob/master/setup/x7.png)
 <br></br>
