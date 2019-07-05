@@ -22,22 +22,22 @@
 >>* 打开MySQL，创建两个分别名为board与DFZ_message_board的数据库，并将仓库内的两个sql文件导入依次（注意顺序：数据库选择board时导入board.sql，<br></br>选择DFZ_message_board时导入DFZ_message_board.sql）；
 
 >>* 将仓库内的所有文件复制到服务器根目录（或子文件夹，视具体情况而定），如图1、图2所示；
-
+<br></br>
 ![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x1.png)
-
+<br></br>
 ![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x2.png)
-
+<br></br>
 >>* 在我的机子与环境上，顺利完成上述所有步骤后，就可以在浏览器地址栏输入以下地址方位主页了，效果如图3~7所示。
 
 	http://localhost/DFZ_HOME_PAGES/
-	
+<br></br>	
 ![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x3.png)
-	
+<br></br>	
 ![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x4.png)
-	
+<br></br>	
 ![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x5.png)
-	
+<br></br>	
 ![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x6.png)
-	
+<br></br>	
 ![](https://github.com/25thengineer/personal_homepage/tree/master/setup/x7.png)
 
